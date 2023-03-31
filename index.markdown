@@ -16,7 +16,13 @@ You can easily toggle between default devices and enable or disable Bluetooth de
 You can have **Signal Shifter** run automatically when you login. Simply use the application's *Settings*.
 
 {:refdef: style="text-align: center;"}
-![Settings](images/settings.png "Settings")
+![Settings - General](images/settings-general.png "Settings - General")
+{: refdef}
+
+Additionally, you can set up *low battery notifications* for your Bluetooth devices.
+
+{:refdef: style="text-align: center;"}
+![Settings - Notifications](images/settings-notifications.png "Settings - Notifications")
 {: refdef}
 
 If you have any problems, please familiarize yourself with the list of known **[Issues]({{ site.github.issues_url }})**
